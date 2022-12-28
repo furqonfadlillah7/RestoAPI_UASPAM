@@ -1,7 +1,5 @@
 package com.kempes.pizzarest;
 
-import static com.kempes.pizzarest.R.drawable.*;
-
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.constraintlayout.widget.Group;
