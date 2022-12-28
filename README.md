@@ -53,3 +53,5 @@ Dosen Pengampu : Aldy Rialdy Atmadja, M.T
 }
 ]
 ```
+### Tampilan Home
+![Image of Home](https://github.com/kempess/Pizza-Restaurant-App-v2/blob/master/img/home1.jpeg)
