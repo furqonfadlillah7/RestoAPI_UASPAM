@@ -53,5 +53,20 @@ Dosen Pengampu : Aldy Rialdy Atmadja, M.T
 }
 ]
 ```
-### Tampilan Home
+#### Tampilan Home
 ![Image of Home](https://github.com/kempess/Pizza-Restaurant-App-v2/blob/master/img/home1.jpeg)
+![Image of Home](https://github.com/kempess/Pizza-Restaurant-App-v2/blob/master/img/home2.jpeg)
+![Image of Home](https://github.com/kempess/Pizza-Restaurant-App-v2/blob/master/img/home3.jpeg)
+
+### Tampilan Lokasi
+![Image of loc](https://github.com/kempess/Pizza-Restaurant-App-v2/blob/master/img/lokasi_tempat.jpeg)
+
+### Tampilan Map
+![Image of Place](https://github.com/kempess/Pizza-Restaurant-App-v2/blob/master/img/map.jpeg)
+
+#### Tampilan Katalog
+![Image of Cotalogue](https://github.com/kempess/Pizza-Restaurant-App-v2/blob/master/img/katalog.jpeg)
+
+#### Tampilan Pesanan
+![Image of order](https://github.com/kempess/Pizza-Restaurant-App-v2/blob/master/img/info_pesanan.jpeg)
+![Image of order_alert](https://github.com/kempess/Pizza-Restaurant-App-v2/blob/master/img/alert_info_pesanan.jpeg)
